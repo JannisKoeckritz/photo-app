@@ -1,0 +1,32 @@
+.planbox {
+	padding: 10px;
+	border: 1px solid #CECDCD;
+	border-radius: 15px;
+	height: 180px;
+	background-color: #CECDCD;
+}
+
+.planbox h4 {
+	text-transform: uppercase;
+}
+
+.descr {
+	font-family: sans-serif;
+	font-size: 15px;
+}
+
+.vline {
+	border-right: 1px solid #CECDCD;
+	height: 180px;
+}
+
+.jumbotron {
+	background-image: asset-url('team.jpg');
+	background-size: cover;
+	height:400px;
+}
+
+.jumb-back {
+	background-color: rgba(256,256,256,0.8);
+	padding: 10px;
+}
