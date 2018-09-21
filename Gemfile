@@ -21,7 +21,14 @@ gem 'devise'
 gem 'twitter-bootstrap-rails'
 gem 'devise-bootstrap-views'
 gem 'jquery-rails'
+# Payment functionality
 gem 'stripe'
+# Image Uploading helper
+gem 'carrierwave'
+# Image Resizing helper
+gem 'mini_magick'
+# Working with images in production
+gem 'fog-aws'
 # Use CoffeeScript for .coffee assets and views
 gem 'coffee-rails', '~> 4.2'
 # Turbolinks makes navigating your web application faster. Read more: https://github.com/turbolinks/turbolinks
